@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/1/3ed859ef2b494e5182719a8ef9b61c21/artifacts
+end_time: 1672989293903
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ed859ef2b494e5182719a8ef9b61c21
+run_name: Light Gradient Boosting Machine
+run_uuid: 3ed859ef2b494e5182719a8ef9b61c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672989293558
+status: 3
+tags: []
+user_id: Akash R

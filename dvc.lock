@@ -8,8 +8,8 @@ stages:
       size: 14136715
       nfiles: 12
     - path: src/validationTrainData.py
-      md5: babaa987ed2f6d9e32521a683de99abf
-      size: 2809
+      md5: 3ae267c25482ce5712aade2a2705585a
+      size: 2808
     outs:
     - path: data/validatedTrainingRawFiles/
       md5: bdf816797965b8d8654316330b032d2f.dir
@@ -35,3 +35,12 @@ stages:
     - path: src/TrainingDB/processedtrain.db
       md5: 8b16903e655628e0e8868804f2203d66
       size: 37908480
+  training:
+    cmd: python src/modelTraining.py
+    deps:
+    - path: src/TrainingDB/processedtrain.db
+      md5: 8b16903e655628e0e8868804f2203d66
+      size: 37908480
+    - path: src/modelTraining.py
+      md5: 2cc91eb9be0373fa417e74edad974c70
+      size: 1992

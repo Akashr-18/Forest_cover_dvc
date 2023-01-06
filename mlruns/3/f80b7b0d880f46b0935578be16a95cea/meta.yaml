@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/3/f80b7b0d880f46b0935578be16a95cea/artifacts
+end_time: 1672990018201
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: f80b7b0d880f46b0935578be16a95cea
+run_name: Ada Boost Classifier
+run_uuid: f80b7b0d880f46b0935578be16a95cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672990017990
+status: 3
+tags: []
+user_id: Akash R

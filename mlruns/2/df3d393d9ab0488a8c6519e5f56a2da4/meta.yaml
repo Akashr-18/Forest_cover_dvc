@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/2/df3d393d9ab0488a8c6519e5f56a2da4/artifacts
+end_time: 1672989865089
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: df3d393d9ab0488a8c6519e5f56a2da4
+run_name: Random Forest Classifier
+run_uuid: df3d393d9ab0488a8c6519e5f56a2da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672989864870
+status: 3
+tags: []
+user_id: Akash R

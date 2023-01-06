@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/2/e888a4466ab9444a9e2f9d29dac51936/artifacts
+end_time: 1672989866686
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e888a4466ab9444a9e2f9d29dac51936
+run_name: Linear Discriminant Analysis
+run_uuid: e888a4466ab9444a9e2f9d29dac51936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672989866489
+status: 3
+tags: []
+user_id: Akash R

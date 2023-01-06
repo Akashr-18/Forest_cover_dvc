@@ -81,3 +81,39 @@
 [2023-01-05 15:27:35] :  makeConnection :: Established connection successfully for train
 [2023-01-05 15:27:43] :  insertDBdata :: DB created
 [2023-01-05 15:27:43] :  ingestionTrainDB :: Train Data ingestion into DB completed
+[2023-01-06 10:58:30] :  Validation of Training data started
+[2023-01-06 10:58:30] :  LengthOfDateStampInFile:8  LengthOfTimeStampInFile:6  NumberofColumns:52
+[2023-01-06 10:58:30] :  Good and Bad Directories created
+[2023-01-06 10:58:30] :  Invalid File Name!! File moved to Bad Raw Folder :: .gitignore
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011991_120211.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011992_120212.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011993_120213.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011994_120214.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011995_120215.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011996_120216.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011997_120217.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011998_120218.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011999_120219.csv
+[2023-01-06 10:58:30] :  Number of Columns Mismatch!! File moved to Bad Raw Folder :: forest_cover_28011999_120259.csv
+[2023-01-06 10:58:30] :  Valid File name!! File moved to GoodRaw Folder :: forest_cover_28012000_120220.csv
+[2023-01-06 10:58:30] :  Validation of file completed
+[2023-01-06 10:58:30] :  Missing Values Validation Started for rawGoodfiles
+[2023-01-06 10:58:38] :  Training data obtained
+[2023-01-06 10:58:31] :  Validation of missing values for whole column completed
+[2023-01-06 10:58:31] :  Training data Validation Completed
+[2023-01-06 10:58:31] :  Training Data Ingestion started locally
+[2023-01-06 10:58:31] :  forest_cover_28011991_120211.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28011992_120212.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28011993_120213.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28011994_120214.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28011995_120215.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28011996_120216.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28011997_120217.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28011998_120218.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28011999_120219.csv data retrieved
+[2023-01-06 10:58:31] :  forest_cover_28012000_120220.csv data retrieved
+[2023-01-06 10:58:31] :  Training Data Ingestion locally completed
+[2023-01-06 10:58:31] :  ingestionDB :: Train Data ingestion into DB started
+[2023-01-06 10:58:31] :  makeConnection :: Established connection successfully for train
+[2023-01-06 10:58:38] :  insertDBdata :: DB created
+[2023-01-06 10:58:38] :  ingestionTrainDB :: Train Data ingestion into DB completed

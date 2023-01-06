@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/3/529aa189b8274470ab6077664a0842af/artifacts
+end_time: 1672990018506
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 529aa189b8274470ab6077664a0842af
+run_name: Quadratic Discriminant Analysis
+run_uuid: 529aa189b8274470ab6077664a0842af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672990018291
+status: 3
+tags: []
+user_id: Akash R

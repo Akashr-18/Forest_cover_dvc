@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/2/bda400ff281c4b719649a4f89e720b91/artifacts
+end_time: 1672989867919
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bda400ff281c4b719649a4f89e720b91
+run_name: Naive Bayes
+run_uuid: bda400ff281c4b719649a4f89e720b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672989867715
+status: 3
+tags: []
+user_id: Akash R

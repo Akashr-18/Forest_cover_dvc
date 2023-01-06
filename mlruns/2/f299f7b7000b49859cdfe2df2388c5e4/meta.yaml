@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/2/f299f7b7000b49859cdfe2df2388c5e4/artifacts
+end_time: 1672989885765
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f299f7b7000b49859cdfe2df2388c5e4
+run_name: Decision Tree Classifier
+run_uuid: f299f7b7000b49859cdfe2df2388c5e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672989883339
+status: 3
+tags: []
+user_id: Akash R

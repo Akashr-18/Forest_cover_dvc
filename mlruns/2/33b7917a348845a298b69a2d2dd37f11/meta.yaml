@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/2/33b7917a348845a298b69a2d2dd37f11/artifacts
+end_time: 1672989867326
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 33b7917a348845a298b69a2d2dd37f11
+run_name: SVM - Linear Kernel
+run_uuid: 33b7917a348845a298b69a2d2dd37f11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672989867090
+status: 3
+tags: []
+user_id: Akash R

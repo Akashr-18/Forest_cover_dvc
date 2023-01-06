@@ -21,7 +21,7 @@ class findBestModel:
         self.logger.log(file,f"Setting up an experiment to find the best model")
 
         try:
-            self.experiment = setup(data, target = target,experiment_name = exp_name,log_experiment = True,silent = True,log_plots = True)
+            self.experiment = setup(data, target = target,experiment_name = exp_name,log_experiment = True,log_plots = True)
             self.model = compare_models(n_select = 1)
             self.logger.log(self.file,f"Found the best model for Cluster {clusterNo}")
             self.tuned_model = tune_model(self.model)

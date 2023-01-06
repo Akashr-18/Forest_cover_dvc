@@ -44,3 +44,42 @@
 [2023-01-05 21:49:58] :  Failed to find the bestmodel for Cluster 0
 [2023-01-05 21:49:58] :  Exited from the function findBestModelforCluster
 [2023-01-05 21:49:58] :  Exception occured while saving the model setup() got an unexpected keyword argument 'silent'
+[2023-01-06 10:58:48] :  makeConnection :: Established connection successfully for processedtrain
+[2023-01-06 10:58:56] :  retrieveDBdata :: Data retrieved from DB
+[2023-01-06 10:58:56] :  >>>>>>Training Started<<<<<<
+[2023-01-06 10:58:56] :  Setting up an experiment to find the best model
+[2023-01-06 10:58:56] :  Failed to find the bestmodel for Cluster 0
+[2023-01-06 10:58:56] :  Exited from the function findBestModelforCluster
+[2023-01-06 10:58:56] :  Exception occured while saving the model setup() got an unexpected keyword argument 'silent'
+[2023-01-06 10:59:20] :  makeConnection :: Established connection successfully for processedtrain
+[2023-01-06 10:59:29] :  retrieveDBdata :: Data retrieved from DB
+[2023-01-06 10:59:29] :  >>>>>>Training Started<<<<<<
+[2023-01-06 10:59:29] :  Setting up an experiment to find the best model
+[2023-01-06 10:59:29] :  Failed to find the bestmodel for Cluster 0
+[2023-01-06 10:59:29] :  Exited from the function findBestModelforCluster
+[2023-01-06 10:59:29] :  Exception occured while saving the model setup() got an unexpected keyword argument 'silent'
+[2023-01-06 12:38:53] :  makeConnection :: Established connection successfully for processedtrain
+[2023-01-06 12:39:02] :  retrieveDBdata :: Data retrieved from DB
+[2023-01-06 12:39:02] :  >>>>>>Training Started<<<<<<
+[2023-01-06 12:39:02] :  Setting up an experiment to find the best model
+[2023-01-06 12:44:57] :  Found the best model for Cluster 0
+[2023-01-06 12:45:06] :  Tuning the best model for Cluster 0
+[2023-01-06 12:45:09] :  Finalizing the best model for Cluster 0
+[2023-01-06 12:45:10] :  Succesfully saved the model
+[2023-01-06 12:45:10] :  Succesfully saved the best_model's params
+[2023-01-06 12:45:10] :  Best model found for cluster 0
+[2023-01-06 12:45:10] :  Setting up an experiment to find the best model
+[2023-01-06 12:54:28] :  Found the best model for Cluster 1
+[2023-01-06 12:54:41] :  Tuning the best model for Cluster 1
+[2023-01-06 12:54:45] :  Finalizing the best model for Cluster 1
+[2023-01-06 12:54:46] :  Succesfully saved the model
+[2023-01-06 12:54:46] :  Succesfully saved the best_model's params
+[2023-01-06 12:54:46] :  Best model found for cluster 1
+[2023-01-06 12:54:46] :  Setting up an experiment to find the best model
+[2023-01-06 12:56:59] :  Found the best model for Cluster 2
+[2023-01-06 12:57:05] :  Tuning the best model for Cluster 2
+[2023-01-06 12:57:07] :  Finalizing the best model for Cluster 2
+[2023-01-06 12:57:07] :  Succesfully saved the model
+[2023-01-06 12:57:07] :  Succesfully saved the best_model's params
+[2023-01-06 12:57:07] :  Best model found for cluster 2
+[2023-01-06 12:57:07] :  >>>>>>Training Completed<<<<<<

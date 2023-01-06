@@ -60,3 +60,4 @@ After prediction:
 
 * The app may take while to load ,Please bear with it 
 * Many of the libraries are commented in requirements.txt and libraries needed only for prediction has been installed to reduce slug size while deploying to heroku. "# forest_cover_main" 
+"# forest_cover_main" 

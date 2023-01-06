@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Akash%20R/Downloads/Forestcover-main/Forestcover-main/mlruns/3/dfd40fe5fc6f44fe861dc47bf3155d3c/artifacts
+end_time: 1672990015999
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: dfd40fe5fc6f44fe861dc47bf3155d3c
+run_name: Extra Trees Classifier
+run_uuid: dfd40fe5fc6f44fe861dc47bf3155d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672990015782
+status: 3
+tags: []
+user_id: Akash R
