@@ -1,0 +1,37 @@
+schema: '2.0'
+stages:
+  trainvalidation:
+    cmd: python src/validationTrainData.py
+    deps:
+    - path: data_given/train/
+      md5: 7878ab33638a9178e1a3b2be9d8f32b5.dir
+      size: 14136715
+      nfiles: 12
+    - path: src/validationTrainData.py
+      md5: babaa987ed2f6d9e32521a683de99abf
+      size: 2809
+    outs:
+    - path: data/validatedTrainingRawFiles/
+      md5: bdf816797965b8d8654316330b032d2f.dir
+      size: 14136715
+      nfiles: 12
+    - path: src/TrainingDB/train.db
+      md5: c300ea453ab741210cd98e191955939a
+      size: 8347648
+  trainPreprocessing:
+    cmd: python src/preprocessingTrainData.py
+    deps:
+    - path: data/validatedTrainingRawFiles/
+      md5: bdf816797965b8d8654316330b032d2f.dir
+      size: 14136715
+      nfiles: 12
+    - path: src/TrainingDB/train.db
+      md5: c300ea453ab741210cd98e191955939a
+      size: 8347648
+    - path: src/preprocessingTrainData.py
+      md5: 3ce9d9f7cfc2c7b4039a50ee7f3ed6f9
+      size: 5070
+    outs:
+    - path: src/TrainingDB/processedtrain.db
+      md5: 8b16903e655628e0e8868804f2203d66
+      size: 37908480

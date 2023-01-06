@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+flask
+flask-cors
+#pandas-profiling
+#ipywidgets
+#dvc
+#mlflow
+pycaret
+#kneed
+#SQLAlchemy
+gunicorn
