@@ -35,7 +35,6 @@ Dataset : [Link](https://archive.ics.uci.edu/ml/datasets/Covertype)
 * data - This directory contains good and bad data after validation of files with respect to everything in schema for training and prediction
 * frontend - This directory contains files related to frontend of the web app
 * logs - This directories contains logs file that has been generated during both training and prediction
-* mlruns - This directory contains all the logs from the experimentation of finding the best model
 * notebooks - This directory contains notebooks used for EDA and testing purposes
 * savedModels - This directory contains all the saved models for each cluster and also clustering and scaling models
 * savedModel - This directory contains plots geenrated udring training
@@ -60,4 +59,5 @@ After prediction:
 
 * The app may take while to load ,Please bear with it 
 * Many of the libraries are commented in requirements.txt and libraries needed only for prediction has been installed to reduce slug size while deploying to heroku. "# forest_cover_main" 
+"# forest_cover_main" 
 "# forest_cover_main" 
